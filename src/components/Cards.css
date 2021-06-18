@@ -1,10 +1,15 @@
 .cards {
     padding: 4rem;
-    background: #fff;
+    background: rgb(241, 241, 241);
   }
   
   h1 {
     text-align: center;
+    color: rgb(0, 0, 0);
+  }
+
+  p {
+    size: 24px;
   }
   
   .cards__container {
@@ -66,7 +71,7 @@
     font-size: 12px;
     font-weight: 700;
     color: #fff;
-    background-color: #1f98f4;
+    background-color: #000508;
     box-sizing: border-box;
   }
   
